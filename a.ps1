@@ -1,0 +1,1 @@
+notepad $pwd\a.txt
